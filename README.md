@@ -5,7 +5,7 @@ Makes http fun again!
 ## Install
 
 ```
-gem install httparty
+gem install httpserious
 ```
 
 ## Requirements
